@@ -20,6 +20,7 @@
 * Latest Tkinter version
 * Using keyboard Shortcuts
 
+<br><br>
 
 ## How to Run ▶
 1- Set your directory on the project file
@@ -27,8 +28,11 @@
 -------------------
 ➡ Also You Can directly Run Python Shell with login.py
 
+<br><br>
+
 ## Countribute 🤝
 Feel free to contribute
+<br><br>
 
 ## Communication 💌
 * [Website](https://www.pariya-tavangar.ir)

@@ -9,9 +9,9 @@
 - [x] [Conflict in exit]()
 - [x] [Fixing row number in del.row]()
 - [x] [Adding status checking]()
-- [x] [Importing AsciiArts]()
 - [x] [Main Page sudden crash]()
 - [x] [Working on gui]()
+
 
 ![menu.png](img/rmimg/menu.png)
 

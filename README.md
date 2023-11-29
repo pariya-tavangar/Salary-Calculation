@@ -4,7 +4,7 @@
 
 ![login.png](img/rmimg/login.png)
 
-## Developer Todo 📝
+## Developer Todo 📝 (Done!)
 - [x] [Fixing adding system]()
 - [x] [Conflict in exit]()
 - [x] [Fixing row number in del.row]()

@@ -25,7 +25,7 @@
 ## How to Run ▶
 1- Set your directory on the project file
 2- Open the project with "login.py"
--------------------
+
 ➡ Also You Can directly Run Python Shell with login.py
 
 <br><br>

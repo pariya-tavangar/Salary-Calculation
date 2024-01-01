@@ -24,6 +24,9 @@
 
 ## How to Run ▶
 1- Set your directory on the project file <br>
+```
+user> cd Desktop/Salary-calculation
+```
 2- Open the project with "login.py"
 ```
 user> python3 login.py

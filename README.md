@@ -1,5 +1,5 @@
 # Salary-Calculation | Python
-# Financial Project - Via Windows📑
+## Financial Project - Via Windows📑
 ### Based on tkinter library
 
 ![login.png](img/rmimg/login.png)

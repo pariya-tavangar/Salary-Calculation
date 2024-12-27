@@ -78,7 +78,6 @@ label4 = Button( win, text='ارسال',font=("Titr",10),width=12,height=1,
                )
 label4.place(x=158,y=280)
 
-
 label5 = Button( win, text='بازگشت',font=("Titr",10),width=8,height=1,
                relief='raised',borderwidth=3,bg='#850707',fg='white',
                command=exit_btn
